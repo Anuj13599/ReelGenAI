@@ -1,0 +1,10 @@
+file 'nature.jpg'
+duration 1
+file 'travel.jpg'
+duration 1
+file 'coffee.jpg'
+duration 1
+file 'sky.jpg'
+duration 1
+file 'book.jpg'
+duration 1
